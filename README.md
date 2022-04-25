@@ -1,2 +1,2 @@
-# pacman-exercise4
-Pacman Exercise Week 7
+# Pacman Factory Exercise
+Pacman Exercise Week 7 
