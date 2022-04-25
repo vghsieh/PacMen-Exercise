@@ -11,6 +11,6 @@ The link to this live page is [here](vghsieh.github.io/pacman-factory). Simply l
 Future courses of action can be to speed up or slow down the PacMen images on the screen by adding additional buttons. 
 Other actions can be to have the PacMan images change based on the bounce on the edges of the window.
 
-##License Information
+## License Information
 
 MIT licensed
